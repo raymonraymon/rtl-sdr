@@ -19,6 +19,8 @@
 
 #ifndef _GETOPT_H
 
+#define _TIMESPEC_DEFINED
+
 #ifndef __need_getopt
 # define _GETOPT_H 1
 #endif
